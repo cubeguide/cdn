@@ -1,1 +1,3 @@
-Larger Content is stored here, this is not the game website.
+### nate-games CDN
+Larger Content is stored here.
+

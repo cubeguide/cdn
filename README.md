@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">nate-games CDN</h1>
-<p align="center">nate-games large file storage.</p>
+<p align="center">LFS for nate-games.</p>
 
 > **Note**
 > **This is not the games site, it is pinned on my bio**

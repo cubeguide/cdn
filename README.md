@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">nate-games CDN</h1>
-<p align="center">LFS for nate-games.</p>
+<p align="center">LFS [Large.File.Storage] for nate-games. Folders that are over 100/200mb are stored here. In total 1.28GB have been removed!</p>
 
 > **Note**
 > **This is not the games site, it is pinned on my bio**

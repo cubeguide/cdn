@@ -1,0 +1,26 @@
+{
+  "name": "deploy",
+  "version": "1.0",
+  "description": "[user choice]",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-games/deploy.git"
+  },
+  "keywords": [
+    "deployment",
+    "nate-games"
+  ],
+  "author": "nate-games",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nate-games/deploy/issues"
+  },
+  "homepage": "https://github.com/nate-games/deploy#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
